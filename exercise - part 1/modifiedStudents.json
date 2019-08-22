@@ -1,0 +1,16 @@
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2dc"), "fname" : "Ala", "lname" : "Mohammad", "class" : "A", "age" : 36, "technologies" : [ "PHP", "mySql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2dd"), "fname" : "Ala", "lname" : "Mohammad", "class" : "A", "age" : 36, "technologies" : [ "PHP", "mySql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2de"), "fname" : "Adam", "lname" : "Graham", "class" : "B", "age" : 17, "technologies" : [ "PHP", "mySQL" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2df"), "fname" : "Eva", "lname" : "Mullins", "class" : "B", "age" : 21, "technologies" : [ "Python", "mySql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e0"), "fname" : "Bella", "lname" : "Weaver", "class" : "A", "age" : 19, "technologies" : [ "VB", "Sql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e1"), "fname" : "Nicolas", "lname" : "Shelton", "class" : "B", "age" : 22, "technologies" : [ "PHP", "mariaDB" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e2"), "fname" : "Yasmin", "lname" : "Rogers", "class" : "A", "age" : 17, "technologies" : [ "Javascript", "MongoDB" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e3"), "fname" : "Adele", "lname" : "Drew", "class" : "B", "age" : 25, "technologies" : [ "PHP", "mySql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e4"), "fname" : "Lillie", "lname" : "Bird", "class" : "A", "age" : 31, "technologies" : [ "Ruby", "mySql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e5"), "fname" : "Sue", "lname" : "Mccoy", "class" : "A", "age" : 30, "technologies" : [ "GO", "mySql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e6"), "fname" : "Amir", "lname" : "Richards", "class" : "B", "age" : 29, "technologies" : [ "C#", "Oracle" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e7"), "fname" : "Ismail", "lname" : "Ryan", "class" : "A", "age" : 37, "technologies" : [ "PHP", "mySql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e8"), "fname" : "Ahmad", "lname" : "Omar", "class" : "A", "age" : 26 }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2e9"), "fname" : "Ahmad", "lname" : "Omar", "class" : "A", "age" : 26, "technologies" : [ "PHP", "mySql" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2ea"), "fname" : "Ammar", "lname" : "Saad", "class" : "B", "age" : 24, "technologies" : [ "PHP", "MongoDB" ] }
+{ "_id" : ObjectId("5d5eaa7992c6aa6834dfa2eb"), "fname" : "Jhon", "lname" : "williams", "class" : "A", "age" : 31, "technologies" : [ "Python", "MongoDB" ] }
